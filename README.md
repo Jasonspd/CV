@@ -21,9 +21,7 @@ I have been working on a variety of projects for clients, using the following te
 
 - [Squish - Education App](http://pajoa.herokuapp.com/)
 - [Stockport - Suicide Prevention](http://www.stockportsuicideprevention.org.uk/)
--[sir_predictalot - MVP Webapp where users can swipe for predictions](https://github.com/the-knights-of-the-reactangular-table/sir_predictalot/tree/development)
--
-
+- [sir_predictalot - MVP Webapp where users can swipe for predictions](https://github.com/the-knights-of-the-reactangular-table/sir_predictalot/tree/development)
 ---
 
 ###EXPERIENCE
