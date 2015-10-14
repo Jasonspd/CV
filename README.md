@@ -14,7 +14,7 @@ I have been working on a variety of projects for clients, using the following te
 | CSS3      | Bootstrap            | Lab       | SVN          | |
 | Sass      | jQuery               |           | Amazon AWS   | |
 | Jade      | D3.js                |           | Heroku       | |
-| Markdown  |                      |           |              | |
+| Markdown  |                      |           | Photoshop    | |
 
 ###PROJECTS
 
@@ -27,12 +27,13 @@ I have been working on a variety of projects for clients, using the following te
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="150">
 
 - Web Developer (Aug 2015 - Present)
-- Working on a confidential project for one of the biggest tech companies in the world.
+- Working on a confidential project for one of the biggest tech companies in the world doing front-end work in an agency environment involving HTML5, CSS3 and Photoshop.
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="180">
 
 - Full Stack Graduate Web Developer (Mar 2015 - Present)
-- 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015) 
+- 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)
+- Freelance developer working on MVPs and private projects (Mar 2015 - August 2015)
 
 --- 
 
