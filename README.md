@@ -39,7 +39,6 @@ I have been working on a variety of projects for clients, using the following te
 ###LINKS
 
 - [LinkedIn](https://uk.linkedin.com/in/jasoncluu)
-- [Personal Website](http://jasonspd.github.io)
 - [Email: jasoncluu@gmail.com](mailto:jasoncluu@gmail.com)
 
 ---
