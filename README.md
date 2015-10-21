@@ -8,13 +8,13 @@ I have been working on a variety of projects for clients, using the following te
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| Javascript| Hapi.js              | Tape/Tap  | Git          | MongoDB   |
-| Node.js   | Express.js           | Jest      | npm          | Redis     |
-| HTML5     | React.js             | Mocha     | gulp         | |
+| Javascript| Hapi                 | Tape/Tap  | Git          | MongoDB   |
+| Node.js   | Express              | Jest      | npm          | Redis     |
+| HTML5     | React                | Mocha     | gulp         | |
 | CSS3      | Bootstrap            | Lab       | SVN          | |
 | Sass      | jQuery               |           | Amazon AWS   | |
-| Jade      | D3.js                |           | Heroku       | |
-| Markdown  |                      |           | Photoshop    | |
+| Jade      | D3                   |           | Heroku       | |
+| Markdown  | AngularJS            |           | Photoshop    | |
 
 ###PROJECTS
 
