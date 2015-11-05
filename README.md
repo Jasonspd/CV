@@ -1,6 +1,6 @@
 # CV - Jason Luu
 
-I am a passionate Javascript and Node.js developer. I have a passion for computers at a young age but only started coding in Janury 2015. Coding has changed my life and I love it! My academic background is in maths and science, I like solving problems and finding the quickiest and easiest solution. Learning quickly is my greatest attribute.
+I am a passionate JavaScript and Node.js developer. I have a passion for computers at a young age but only started coding in January 2015. Coding has changed my life and I love it! My academic background is in maths and science, I like solving problems and finding the quickest and easiest solution. Learning quickly is my greatest attribute.
 
 ###SKILLS
 
