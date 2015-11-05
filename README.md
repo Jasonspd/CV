@@ -43,6 +43,24 @@ I have been working on a variety of projects for clients, using the following te
 - [Email: jasoncluu@gmail.com](mailto:jasoncluu@gmail.com)
 
 ---
+
+###EDUCATION
+Queen Mary University of London
+Aerospace Engineering 2010-2013
+
+Kingston University
+Foundation Year in Engineering
+2009-2010
+
+Woodhouse College
+Mathematics, Physics, IT
+2007-2009
+
+Swanlea School
+GCSES, 11 A*s-B
+2001-2007
+
+---
 ###INTERESTS
 * Learning
 * Computers
