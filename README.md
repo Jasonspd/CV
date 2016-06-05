@@ -19,7 +19,7 @@ I have been working on a variety of projects for clients, using the following te
 
 - [Squish - Education App](http://pajoa.herokuapp.com/)
 - [Stockport - Suicide Prevention](http://www.stockportsuicideprevention.org.uk/)
-- More on my github repo
+- And more on my github repo
 
 ###EXPERIENCE
 
