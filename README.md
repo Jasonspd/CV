@@ -8,13 +8,13 @@ I have been working on a variety of projects for clients, using the following te
 
 | Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| Javascript| Hapi                 | Tape/Tap  | Git          | MongoDB   |
-| Node.js   | Express              | Jest      | npm          | Redis     |
-| HTML5     | React                | Mocha     | gulp         | |
-| CSS3      | Bootstrap            | Lab       | SVN          | |
-| Sass      | jQuery               |           | Amazon AWS   | |
-| Jade      | D3                   |           | Heroku       | |
-| Markdown  | AngularJS            |           | Photoshop    | |
+| Javascript| jQuery               | Tape/Tap  | Git          | MongoDB   |
+| Node.js   | AngularJS            | Jest      | SVN          |           |
+| HTML5     | ReactJS              | Mocha     | gulp         |           |
+| CSS3      | Bootstrap            | Lab       | Heroku       |           |
+| Jade      |                      |           | Amazon/AWS   |           |
+|           |                      |           | Heroku       |           |
+|           |                      |           | Photoshop    |           |
 
 ###PROJECTS
 
@@ -26,12 +26,12 @@ I have been working on a variety of projects for clients, using the following te
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="150">
 
-- Web Developer (Aug 2015 - Present)
+- Web Developer (Jul 2015 - Nov 2015)
 - Working on a confidential project for one of the biggest tech companies in the world doing front-end work in an agency environment involving HTML5, CSS3 and Photoshop.
 
 <img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="180">
 
-- Full Stack Graduate Web Developer (Mar 2015 - Present)
+- Full Stack Graduate Web Developer (Jan 2015 - Nov 2015)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)
 - Freelance developer working on MVPs and private projects (Mar 2015 - August 2015)
 
