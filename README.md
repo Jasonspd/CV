@@ -13,7 +13,6 @@ I have been working on a variety of projects for clients, using the following te
 | HTML5     | ReactJS              | Mocha     | gulp         |           |
 | CSS3      | Bootstrap            | Lab       | Heroku       |           |
 | Jade      |                      |           | Amazon/AWS   |           |
-|           |                      |           | Heroku       |           |
 |           |                      |           | Photoshop    |           |
 
 ###PROJECTS
