@@ -12,7 +12,7 @@ I have been working on a variety of projects for clients, using the following te
 | Node.js   | AngularJS            | Jest      | SVN          |           |
 | HTML5     | ReactJS              | Mocha     | gulp         |           |
 | CSS3      | Bootstrap            | Lab       | Heroku       |           |
-| Jade      |                      |           | Amazon/AWS   |           |
+| Jade      | Phonegap             |           | Amazon/AWS   |           |
 |           |                      |           | Photoshop    |           |
 
 ###PROJECTS
