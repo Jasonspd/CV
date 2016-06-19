@@ -23,7 +23,7 @@ I have been working on a variety of projects for clients, using the following te
 - [Learning Stripe API](https://github.com/Jasonspd/CaMunity-MVPweek0)
 - [Fashion platform app](https://github.com/TRENDiPEOPLE/trendipeople)
 - [Photography platform app](https://github.com/hire-me-im-a-photographer/CaMunity)
-- And more on my github repo
+- [And more on my github repo](https://github.com/Jasonspd)
 
 ###EXPERIENCE
 
