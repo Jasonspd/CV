@@ -27,12 +27,12 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EXPERIENCE
 
-<a target="_blank" href="http://www.wcrs.com/"><img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="150"></a>
+<a href="http://www.wcrs.com/"><img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="150"></a>
 
 - Web Developer (Jul 2015 - Nov 2015)
 - Working on a confidential project for one of the biggest tech companies in the world doing front-end work in an agency environment involving HTML5, CSS3 and Photoshop.
 
-<a target="_blank" href="http://www.foundersandcoders.com/"><img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="180"></a>
+<a href="http://www.foundersandcoders.com/"><img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="180"></a>
 
 - Full Stack Graduate Web Developer (Jan 2015 - Nov 2015)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)
