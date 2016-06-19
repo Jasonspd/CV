@@ -21,6 +21,8 @@ I have been working on a variety of projects for clients, using the following te
 - [Stockport - Suicide Prevention resource using Jekyll.](http://www.stockportsuicideprevention.org.uk/) --- [Code ](https://github.com/stockport/stockport.github.io)
 - [sir_predictalot - Prediction app with swipe features using React.](https://github.com/the-knights-of-the-reactangular-table/sir_predictalot/tree/development)
 - [Learning Stripe API](https://github.com/Jasonspd/CaMunity-MVPweek0)
+- [Fashion platform app](https://github.com/TRENDiPEOPLE/trendipeople)
+- [Photography platform app](https://github.com/hire-me-im-a-photographer/CaMunity)
 - And more on my github repo
 
 ###EXPERIENCE
