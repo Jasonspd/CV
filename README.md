@@ -58,4 +58,4 @@ I have been working on a variety of projects for clients, using the following te
 
 ---
 ###ALTERNATIVE CV
-* Alternatively, you can find my alternative CV in PDF format here: []()
+* Alternatively, you can find my alternative CV in PDF format here: [Jason Luu CV - PDF](https://github.com/Jasonspd/CV-1/blob/master/jasoncluuCV.pdf)
