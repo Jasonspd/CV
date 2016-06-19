@@ -2,7 +2,7 @@
 
 I am a passionate JavaScript and Node.js developer. I loved computers at a young age but only started coding in January 2015. Coding has changed my life, I love learning new stuff and building apps everyday! Learning quickly is my greatest attribute; I like solving problems and finding the best solutions.
 
-[Alternative CV - PDF format](https://github.com/Jasonspd/CV-1/blob/master/jasoncluuCV.pdf)
+[Alternative CV - PDF format](https://github.com/Jasonspd/CV-1/blob/master/jasoncluuCV.pdf) | [LinkedIn](https://uk.linkedin.com/in/jasoncluu) | [Email: jasoncluu@gmail.com](mailto:jasoncluu@gmail.com) | [Portfolio Website](http://jasonspd.github.io/)
 
 ###SKILLS
 
