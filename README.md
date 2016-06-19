@@ -33,12 +33,24 @@ I have been working on a variety of projects for clients, using the following te
 
 - Web Developer (Jul 2015 - Nov 2015)
 - Working on a confidential project for one of the biggest tech companies in the world doing front-end work in an agency environment involving HTML5, CSS3 and Photoshop.
+- 4 month contract, working with the Apple team within WCRS.
+- Front-end quality control, testing, error and bug fixing under tight design specification.
+- Rapid familiarisation with a large, unfamiliar codebase and resource management system.
+- Technologies involved HTML5, CSS3, SVN and Photoshop.
+- Worked abroad in San Jose with Apple in early September for their iPhone 6 launch.
+
 
 <a href="http://www.foundersandcoders.com/"><img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="180"></a>
 
 - Full Stack Graduate Web Developer (Jan 2015 - Nov 2015)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)
 - Freelance developer working on MVPs and private projects (Mar 2015 - August 2015)
+- Selected for an eight week competitive web development course.
+- Learned JavaScript and how to build web applications using NodeJS.
+- Every week was a new project and/or a new framework, to develop constant learning.
+- A further 8 weeks were spent working on commercial MVPs for real clients.
+- After graduation, I became a freelance developer working on MVPs and private projects.
+
 
 --- 
 
@@ -59,3 +71,6 @@ I have been working on a variety of projects for clients, using the following te
 **Swanlea School**, GCSES, 11 A*s-B, 2001-2007
 
 ---
+###AND MORE
+- Native speaker in English and Cantonese, with intermediate Mandarin.
+- Enjoy working with computers, constantly learning and is fascinated by new technology. Love to travel, exercise, sports and cycling.
