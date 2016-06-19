@@ -18,7 +18,7 @@ I have been working on a variety of projects for clients, using the following te
 ###PROJECTS
 
 - [Squish - Education App using React.](http://pajoa.herokuapp.com/) --- [Code: ](https://github.com/pajoa/pajoa-the-chimp)
-- [Stockport - Suicide Prevention resource using Jekyll.]--- (http://www.stockportsuicideprevention.org.uk/) [Code: ](https://github.com/stockport/stockport.github.io)
+- [Stockport - Suicide Prevention resource using Jekyll.](http://www.stockportsuicideprevention.org.uk/) --- [Code: ](https://github.com/stockport/stockport.github.io)
 - And more on my github repo
 
 ###EXPERIENCE
