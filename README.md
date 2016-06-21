@@ -31,7 +31,7 @@ I have been working on a variety of projects for clients, using the following te
 
 <a href="http://www.wcrs.com/"><img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="150"></a>
 
-- Web Developer (Jul 2015 - Nov 2015)
+- Web Developer (Aug 2015 - Nov 2015)
 - 4 month contract, working with the Apple team within WCRS.
 - Front-end quality control, testing, error and bug fixing under tight design specification.
 - Rapid familiarisation with a large, unfamiliar codebase and resource management system.
