@@ -12,7 +12,7 @@ I have been working on a variety of projects for clients, using the following te
 |:-----------:|:--------------------:|:---------:|:------------:|:---------:|
 | Javascript  | jQuery               | Tape/Tap  | Git          | MongoDB   |
 | Node.js     | React                | Jest      | SVN          |           |
-| HTML5       | express              | Mocha     | gulp         |           |
+| HTML5       | express              | Mocha     | Gulp & Grunt |           |
 | CSS3        | hapi                 | Lab       | Heroku       |           |
 | Sass        | AngularJS            |           | Amazon/AWS   |           |
 | Less        | Boostrap             |           | Photoshop    |           |
