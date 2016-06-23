@@ -60,13 +60,13 @@ I have been working on a variety of projects for clients, using the following te
 ---
 
 ###EDUCATION
-**Queen Mary University of London**, Aerospace Engineering, 2010-2013
+**Queen Mary University of London**, DipHE in Aerospace Engineering, 2010-2013
 
-**Kingston University**, Foundation Year in Engineering, 2009-2010
+**Kingston University**, Foundation year in Engineering, 2009-2010
 
-**Woodhouse College**, Mathematics, Physics, IT, 2007-2009
+**Woodhouse College**, 3 A-Levels in Mathematics, Physics, IT, 2007-2009
 
-**Swanlea School**, GCSES, 11 A*s-B, 2001-2007
+**Swanlea School**, 11 GCSEs, A*-B, 2001-2007 including Maths, English, IT and Chinese
 
 ---
 ###AND MORE
