@@ -1,6 +1,6 @@
 # Jason Luu
 
-I am a passionate JavaScript and Node.js developer. I loved computers at a young age but only started coding in January 2015. Coding has changed my life, I love learning new stuff and building apps everyday! Learning quickly is my greatest attribute; I like solving problems and finding the best solutions.
+I am a passionate JavaScript and Node.js developer. I loved computers at a young age but only started coding seriously in January 2015. Coding has changed my life, I love learning new stuff and building apps everyday! Learning quickly is my greatest attribute; I like solving problems and finding the best solutions.
 
 [Alternative CV - PDF format](https://github.com/Jasonspd/CV-1/blob/master/jasoncluuCV.pdf) | [LinkedIn](https://uk.linkedin.com/in/jasoncluu) | [Email: jasoncluu@gmail.com](mailto:jasoncluu@gmail.com) | [Portfolio Website](http://jasonspd.github.io/)
 
@@ -8,14 +8,14 @@ I am a passionate JavaScript and Node.js developer. I loved computers at a young
 
 I have been working on a variety of projects for clients, using the following technologies:
 
-| Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
-|:---------:|:--------------------:|:---------:|:------------:|:---------:|
-| Javascript| jQuery               | Tape/Tap  | Git          | MongoDB   |
-| Node.js   | AngularJS            | Jest      | SVN          |           |
-| HTML5     | ReactJS              | Mocha     | gulp         |           |
-| CSS3      | Bootstrap            | Lab       | Heroku       |           |
-| Jade      | Phonegap             |           | Amazon/AWS   |           |
-|           |                      |           | Photoshop    |           |
+| Core skills | Frameworks/Libraries | Testing   | Tools/Others | Databases |
+|:-----------:|:--------------------:|:---------:|:------------:|:---------:|
+| Javascript  | jQuery               | Tape/Tap  | Git          | MongoDB   |
+| Node.js     | React                | Jest      | SVN          |           |
+| HTML5       | express              | Mocha     | gulp         |           |
+| CSS3        | hapi                 | Lab       | Heroku       |           |
+| SASS        | AngularJS            |           | Amazon/AWS   |           |
+| LESS        | Boostrap             |           | Photoshop    |           |
 
 ###PROJECTS
 
