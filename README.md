@@ -14,8 +14,8 @@ I have been working on a variety of projects for clients, using the following te
 | Node.js     | React                | Jest      | SVN          |           |
 | HTML5       | express              | Mocha     | gulp         |           |
 | CSS3        | hapi                 | Lab       | Heroku       |           |
-| SASS        | AngularJS            |           | Amazon/AWS   |           |
-| LESS        | Boostrap             |           | Photoshop    |           |
+| Sass        | AngularJS            |           | Amazon/AWS   |           |
+| Less        | Boostrap             |           | Photoshop    |           |
 
 ###PROJECTS
 
