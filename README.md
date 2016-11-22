@@ -30,7 +30,7 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EXPERIENCE
 
-<a href="http://www.immediate.co.uk/"><img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="150"></a>
+<a href="http://www.immediate.co.uk/"><img src="https://github.com/Jasonspd/CV-1/blob/master/immediate.jpg" width="150"></a>
 
 - Junior Ad Products Developer (Aug 2016 - Nov 2016)
 - Devleoped new ad products for the creative team, [Imagine](http://www.imaginebyimmediate.com/)
@@ -40,7 +40,7 @@ I have been working on a variety of projects for clients, using the following te
 - Worked in a big team, liasing with planners and designers to complete deadlines
 - [Angular project](http://advertorial.immediate.co.uk/flight-centre/#/)
 
-<a href="http://www.wcrs.com/"><img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="150"></a>
+<a href="http://www.wcrs.com/"><img src="https://github.com/Jasonspd/CV-1/blob/master/wcrs.png" width="150"></a>
 
 - Web Developer (Aug 2015 - Nov 2015)
 - 4 month contract, working with the Apple team within WCRS.
@@ -50,7 +50,7 @@ I have been working on a variety of projects for clients, using the following te
 - Worked abroad in San Jose with Apple in early September for their iPhone 6 launch.
 
 
-<a href="http://www.foundersandcoders.com/"><img src="https://github.com/Neats29/CV/blob/master/experience/fac.png" width="180"></a>
+<a href="http://www.foundersandcoders.com/"><img src="https://github.com/Jasonspd/CV-1/blob/master/fac.png" width="180"></a>
 
 - Full Stack Graduate Web Developer (Jan 2015 - Nov 2015)
 - 8-Week Intensive Web Development Course (Jan 2015 - Mar 2015)
