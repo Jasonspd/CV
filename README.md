@@ -30,6 +30,16 @@ I have been working on a variety of projects for clients, using the following te
 
 ###EXPERIENCE
 
+<a href="http://www.immediate.co.uk/"><img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="150"></a>
+
+- Junior Ad Products Developer (Aug 2016 - Nov 2016)
+- Devleoped new ad products for the creative team, [Imagine](http://www.imaginebyimmediate.com/)
+- My role was to bring my javascript skills and agile best practices to the development team.
+- Developed advertorial banners and microsites using javascript and Angular.
+- Worked on company website using PHP and Wordpress, [Immediate](http://www.immediate.co.uk/)
+- Worked in a big team, liasing with planners and designers to complete deadlines
+- [Angular project](http://advertorial.immediate.co.uk/flight-centre/#/)
+
 <a href="http://www.wcrs.com/"><img src="https://github.com/Neats29/CV/blob/master/experience/wcrs.png" width="150"></a>
 
 - Web Developer (Aug 2015 - Nov 2015)
