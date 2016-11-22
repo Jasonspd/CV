@@ -11,11 +11,12 @@ I have been working on a variety of projects for clients, using the following te
 | Core skills | Frameworks/Libraries | Testing   | Tools/Others | Databases |
 |:-----------:|:--------------------:|:---------:|:------------:|:---------:|
 | Javascript  | jQuery               | Tape/Tap  | Git          | MongoDB   |
-| Node.js     | React                | Jest      | SVN          |           |
-| HTML5       | express              | Mocha     | Gulp & Grunt |           |
-| CSS3        | hapi                 | Lab       | Heroku       |           |
-| Sass        | AngularJS            |           | Amazon/AWS   |           |
+| Node.js     | React                | Jest      | SVN          | MySQL     |
+| HTML5       | Angular              | Mocha     | Gulp & Grunt |           |
+| CSS3        | Wordpress            | Lab       | Heroku       |           |
+| Sass        | express & hapi       |           | Amazon/AWS   |           |
 | Less        | Boostrap             |           | Photoshop    |           |
+| PHP         | Ionic                |           | Sketch       |           |
 
 ###PROJECTS
 
