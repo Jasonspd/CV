@@ -4,7 +4,7 @@ I am a passionate JavaScript and Node.js developer. I loved computers at a young
 
 [Alternative CV - PDF format](https://github.com/Jasonspd/CV-1/blob/master/jasoncluuCV.pdf) | [LinkedIn](https://uk.linkedin.com/in/jasoncluu) | [Email: jasoncluu@gmail.com](mailto:jasoncluu@gmail.com) | [Portfolio Website](http://jasonspd.github.io/)
 
-###SKILLS
+### SKILLS
 
 I have been working on a variety of projects for clients, using the following technologies:
 
@@ -18,7 +18,7 @@ I have been working on a variety of projects for clients, using the following te
 | Less        | Boostrap             |           | Photoshop    |           |
 | PHP         | Ionic                |           | Sketch       |           |
 
-###PROJECTS
+### PROJECTS
 
 - [Squish - Education website using React](http://pajoa.herokuapp.com/) --- [Code](https://github.com/pajoa/pajoa-the-chimp)
 - [Stockport - Suicide Prevention website using Jekyll](http://www.stockportsuicideprevention.org.uk/) --- [Code ](https://github.com/stockport/stockport.github.io)
@@ -28,7 +28,7 @@ I have been working on a variety of projects for clients, using the following te
 - [Photography platform app using Hapi](https://github.com/hire-me-im-a-photographer/CaMunity)
 - [And more on my github repo](https://github.com/Jasonspd)
 
-###EXPERIENCE
+### EXPERIENCE
 
 <a href="http://www.immediate.co.uk/"><img src="https://github.com/Jasonspd/CV-1/blob/master/immediate.jpg" width="150"></a>
 
@@ -63,14 +63,14 @@ I have been working on a variety of projects for clients, using the following te
 
 --- 
 
-###LINKS
+### LINKS
 
 - [LinkedIn](https://uk.linkedin.com/in/jasoncluu)
 - [Email: jasoncluu@gmail.com](mailto:jasoncluu@gmail.com)
 
 ---
 
-###EDUCATION
+### EDUCATION
 **Queen Mary University of London**, DipHE in Aerospace Engineering, 2010-2013
 
 **Kingston University**, Foundation year in Engineering, 2009-2010
@@ -80,6 +80,6 @@ I have been working on a variety of projects for clients, using the following te
 **Swanlea School**, 11 GCSEs, A*-B, 2001-2007 including Maths, English, IT and Chinese
 
 ---
-###AND MORE
+### AND MORE
 - Native speaker in English and Cantonese, with intermediate Mandarin.
 - Enjoy working with computers, constantly learning and is fascinated by new technology. Love to travel, exercise, sports and cycling.
